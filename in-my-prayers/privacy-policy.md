@@ -85,11 +85,13 @@ not sent through any server, and the app does not register for push notification
 
 Please note:
 
-- **A reminder for a specific prayer shows that prayer's title** in the notification.
-  Depending on your phone's settings, notifications can appear on the lock screen, where
-  others may see them. You can hide sensitive notification content in your phone's settings
-  (usually *Settings → Notifications → Notifications on lock screen*), or turn off
-  notifications for the app entirely.
+- **By default, a reminder for a specific prayer shows that prayer's title** in the
+  notification. Depending on your phone's settings, notifications can appear on the lock
+  screen, where others may see them. To keep them private, turn off *Settings → Privacy →
+  Show prayer titles in reminders* in the app: reminders then show only a generic message
+  and still open the prayer when you tap them. You can also hide sensitive notification
+  content in your phone's settings (usually *Settings → Notifications → Notifications on
+  lock screen*), or turn off notifications for the app entirely.
 - General nudges show a generic message ("Time to pray") and no prayer content.
 - You can withdraw notification permission at any time in your phone's settings. The rest of
   the app keeps working.

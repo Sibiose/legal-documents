@@ -90,10 +90,13 @@ notificări push.
 
 Reține că:
 
-- **Mementoul pentru o anumită rugăciune afișează titlul acelei rugăciuni** în notificare. În
-  funcție de setările telefonului, notificările pot apărea pe ecranul de blocare, unde le pot
-  vedea și alții. Poți ascunde conținutul sensibil al notificărilor din setările telefonului (de
-  obicei *Setări → Notificări → Notificări pe ecranul de blocare*) sau poți dezactiva complet
+- **Implicit, mementoul pentru o anumită rugăciune afișează titlul acelei rugăciuni** în
+  notificare. În funcție de setările telefonului, notificările pot apărea pe ecranul de
+  blocare, unde le pot vedea și alții. Pentru a le păstra private, dezactivează în aplicație
+  *Setări → Confidențialitate → Arată titlul rugăciunii în mementouri*: mementourile vor afișa
+  atunci doar un mesaj general și vor deschide în continuare rugăciunea când le atingi. Poți,
+  de asemenea, să ascunzi conținutul sensibil al notificărilor din setările telefonului (de
+  obicei *Setări → Notificări → Notificări pe ecranul de blocare*) sau să dezactivezi complet
   notificările aplicației.
 - Îndemnurile generale afișează un mesaj general („E timpul să te rogi”), fără conținutul
   rugăciunilor.
